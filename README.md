@@ -24,4 +24,6 @@ Si quieres conectar o colaborar en un proyecto, puedes encontrarme en:
 - **Gmail**: tomas.contact.dev@gmail.com
 - **LinkedIn**: [linkedin.com/in/tomás-cuevas-dev](https://linkedin.com/in/tomás-cuevas-dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasCuevas&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ¡Gracias por visitar mi perfil! 🚀
