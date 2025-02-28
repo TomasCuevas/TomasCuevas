@@ -12,6 +12,7 @@ Soy un desarrollador web autodidacta, enfocado en construir aplicaciones web con
 ## 🔥 Proyectos destacados
 
 - [Evlun](https://evlun.vercel.app/auth/login) → Red social, clon de Twitter 100% funcional.
+- [3Asaltos](https://3asaltos.vercel.app/) → Plataforma Web de un Podcast de MMA.
 - [ProductivePulse](https://chatgpt.com/c/67b85749-293c-8009-92ee-19164cf363d3#) → Una plataforma para mejorar la productividad y seguimiento de tareas.
 - [Teslo](https://teslo-tc.vercel.app/category/men) → Eccomerce inspirado en el diseño de la web de Tesla.
 - [Visualizer](https://visualizer-azure.vercel.app/) → Web que utiliza la API de Unsplash para mostrar imagenes de stock.
