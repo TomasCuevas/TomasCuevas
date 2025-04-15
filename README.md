@@ -22,7 +22,7 @@ Soy un desarrollador web autodidacta, enfocado en construir aplicaciones web con
 
 Si quieres conectar o colaborar en un proyecto, puedes encontrarme en:
 
-- **Gmail**: tomas.contact.dev@gmail.com
+- **Email**: tomas.contact.dev@gmail.com
 - **LinkedIn**: [linkedin.com/in/tomás-cuevas-dev](https://linkedin.com/in/tomás-cuevas-dev)
 
 ¡Gracias por visitar mi perfil! 🚀
